@@ -1,0 +1,28 @@
+﻿  TextureLoader.cpp
+c:\users\antonio\desktop\git\tron\tron\textureloader.cpp(1): warning C4081: expected 'newline'; found ';'
+  PlayerMethods.cpp
+c:\users\antonio\desktop\git\tron\tron\playermethods.cpp(35): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\antonio\desktop\git\tron\tron\playermethods.cpp(36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  PlayerAndAIMethods.cpp
+c:\users\antonio\desktop\git\tron\tron\playerandaimethods.cpp(761): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\antonio\desktop\git\tron\tron\playerandaimethods.cpp(766): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\antonio\desktop\git\tron\tron\playerandaimethods.cpp(776): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\antonio\desktop\git\tron\tron\playerandaimethods.cpp(781): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\antonio\desktop\git\tron\tron\playerandaimethods.cpp(523): warning C4101: 'count': unreferenced local variable
+  Main.cpp
+  EnvironmentMethods.cpp
+c:\users\antonio\desktop\git\tron\tron\environmentmethods.cpp(16): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\antonio\desktop\git\tron\tron\environmentmethods.cpp(17): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\antonio\desktop\git\tron\tron\environmentmethods.cpp(20): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\antonio\desktop\git\tron\tron\environmentmethods.cpp(21): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  ObjectImporter.cpp
+  ImportedObjectManager.cpp
+  drawMethods.cpp
+c:\users\antonio\desktop\git\tron\tron\drawmethods.cpp(323): warning C4101: 'len': unreferenced local variable
+c:\users\antonio\desktop\git\tron\tron\drawmethods.cpp(323): warning C4101: 'i': unreferenced local variable
+  AIMethods.cpp
+c:\users\antonio\desktop\git\tron\tron\aimethods.cpp(31): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\antonio\desktop\git\tron\tron\aimethods.cpp(32): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Generating Code...
+  TRON.vcxproj -> C:\Users\Antonio\Desktop\git\TRON\Debug\TRON.exe
+  TRON.vcxproj -> C:\Users\Antonio\Desktop\git\TRON\Debug\TRON.pdb (Partial PDB)

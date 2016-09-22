@@ -1,0 +1,47 @@
+﻿  Assimp.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiVector2D.h(75): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(140): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(148): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(160): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(160): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(161): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(161): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(162): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(162): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(163): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(163): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(164): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(164): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(165): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(165): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(198): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(198): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(199): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(199): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(217): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(246): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(247): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\aiQuaternion.h(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EnvironmentMethods.cpp
+  Main.cpp
+  PlayerMethods.cpp
+Assimp.obj : error LNK2001: unresolved external symbol _aiGetMaterialFloatArray
+Assimp.obj : error LNK2001: unresolved external symbol _aiGetMaterialColor
+Assimp.obj : error LNK2001: unresolved external symbol __imp__ilLoadImage@4
+Assimp.obj : error LNK2001: unresolved external symbol __imp__ilDeleteImages@8
+Assimp.obj : error LNK2001: unresolved external symbol __imp__ilConvertImage@8
+Assimp.obj : error LNK2001: unresolved external symbol _aiImportFile
+Assimp.obj : error LNK2001: unresolved external symbol _aiGetMaterialIntegerArray
+Assimp.obj : error LNK2001: unresolved external symbol _aiIdentityMatrix4
+Assimp.obj : error LNK2001: unresolved external symbol _aiTransformVecByMatrix4
+Assimp.obj : error LNK2001: unresolved external symbol __imp__ilInit@0
+Assimp.obj : error LNK2001: unresolved external symbol __imp__ilBindImage@4
+Assimp.obj : error LNK2001: unresolved external symbol _aiGetMaterialTexture
+Assimp.obj : error LNK2001: unresolved external symbol __imp__ilGetData@0
+Assimp.obj : error LNK2001: unresolved external symbol _aiMultiplyMatrix4
+Assimp.obj : error LNK2001: unresolved external symbol __imp__ilGetInteger@4
+Assimp.obj : error LNK2001: unresolved external symbol __imp__ilGenImages@8
+C:\Users\Vale\Documents\Visual Studio 2015\Projects\TRON\Release\TRON.exe : fatal error LNK1120: 16 unresolved externals
