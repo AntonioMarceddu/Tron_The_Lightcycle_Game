@@ -40,7 +40,7 @@ The collision detection algorithm works in this way:
 1) For each exterior wall that defines the game and every wall created by the player and AI, we check if the end point (momentary, as both the player and the AI moves constantly) of the actual wall (which is creating by the player or the AI, the mechanism is the same) has the coordinate variable in the range which, as mentioned in the "MANAGEMENT OF THE GAME WALLS", is shown graphically as the wall thickness; if it is not in this range we'll repeat step 1 with the next wall of the list, otherwise we'll proceed with step 2.
 2) We check if the wall that is being built is also between the extremes of the wall currently under analysis (also checking if it was built in ascending order, from smaller variable coordinates to larger, or in descending order); if these two conditions are both true you have a collision and is returned by the function 1 if the player has won (the IA has collided with a wall) or 2 (the player has collided with a wall).
 
-## Mode of operation of AI
+### Mode of operation of AI
 The mode of operation of the opponent AI works basically in the same way as the collision detection, in which is added a verification walls offset greater than the thickness of the wall; it will decide whether or not to turn in the presence of a wall or his opponent on the basis of the choice of random variables. In addition to that, the AI can turn randomly alone and has fixed rules relating to the bounding walls of the game.
 
 ### Relevant variables
